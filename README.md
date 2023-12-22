@@ -4,9 +4,10 @@
 
 
 ## input: 
-number 
+power of two
 
 ## output:
 
-count of simple factors
+count of simple factors of this number
+
 string of them
