@@ -8,5 +8,5 @@ power of two, count of factors that number got.
 
 ## output:
 
-count of simple factors of this number 
+count of simple factors of this number and 
 string of them
